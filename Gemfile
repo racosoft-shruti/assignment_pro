@@ -63,6 +63,13 @@ group :test do
 end
 
 gem "annotate", "~> 2.6"
-gem 'pagy', '~> 6.5'
+gem 'pagy'
+gem "sidekiq", "~> 7.3"
+gem "redis", "~> 5.4"
 
-gem "rubocop", "~> 1.75"
+
+gem "byebug", "~> 12.0"
+
+gem "jwt", "~> 2.10"
+
+gem "bcrypt", "~> 3.1"
