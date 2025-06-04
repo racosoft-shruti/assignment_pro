@@ -65,4 +65,4 @@ end
 gem "annotate", "~> 2.6"
 gem 'pagy', '~> 6.5'
 
-gem "rubocop", "~> 1.75"
+gem "rubocop", "~> 1.76"
